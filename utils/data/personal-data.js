@@ -13,5 +13,6 @@ export const personalData = {
   stackOverflow: '#',
   leetcode: "#",
   devUsername: "#",
-  resume: "https://drive.google.com/file/d/11gyq3b688Mdb-Er5TcnHnltozYpipZYw/view?usp=sharing"
+  // resume: "https://drive.google.com/file/d/11gyq3b688Mdb-Er5TcnHnltozYpipZYw/view?usp=sharing"
+  resume:"https://techlift.in/private/files/Rahul_Gupta_Resume.pdf"
 }
