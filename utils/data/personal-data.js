@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "#",
   devUsername: "#",
   // resume: "https://drive.google.com/file/d/11gyq3b688Mdb-Er5TcnHnltozYpipZYw/view?usp=sharing"
-  resume:"https://techlift.in/private/files/Rahul_Gupta_Resume621741.pdf"
+  resume:"https://techlift.in/private/files/Rahul_Gupta_Resume1001a8.pdf"
 }
